@@ -1,2 +1,2 @@
-# learn_python
+# learning
 Learning Repo
